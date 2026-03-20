@@ -1,4 +1,4 @@
-This is a project for sending a notification to some one else email (gamil) when the camera detect a face.
+This is a project for sending a notification to some one else email (gamil) when the camera detects a face.
 
 
 
